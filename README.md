@@ -37,3 +37,13 @@
 
 ![캡처](https://user-images.githubusercontent.com/117800561/201298587-d2d369d1-2dae-41d5-90f9-19e8d81d4d1b.PNG)
 
+**용어 정의**
+
+![image](https://user-images.githubusercontent.com/117800561/201299124-ca4c3bbc-cf99-435c-8d90-bba37306886a.png)
+
+![image](https://user-images.githubusercontent.com/117800561/201299212-fff0a854-471a-4fdb-8297-60dcbd36f925.png)
+
+![image](https://user-images.githubusercontent.com/117800561/201299276-5b09bfe3-a2c7-44f6-8c42-c4c293cb301b.png)
+
+
+
