@@ -46,7 +46,10 @@
 ![image](https://user-images.githubusercontent.com/117800561/201299276-5b09bfe3-a2c7-44f6-8c42-c4c293cb301b.png)
 
 **로그인 처리**
+사용자 인증처리
+![image](https://user-images.githubusercontent.com/117800561/202647423-7c8e1130-d56e-4170-bf4a-4e14a4b33d6e.png)
 
+로그인 정보 
 ![image](https://user-images.githubusercontent.com/117800561/202640543-d78f92ef-bf4d-43c0-8d20-5be629544928.png)
 
 서블릿
