@@ -36,6 +36,8 @@
 
 
 ![캡처](https://user-images.githubusercontent.com/117800561/201298587-d2d369d1-2dae-41d5-90f9-19e8d81d4d1b.PNG)
+![image](https://user-images.githubusercontent.com/117800561/202648900-153a5011-cec3-4375-b84f-6b9c84a9e18d.png)
+
 
 # 용어 정의
 
