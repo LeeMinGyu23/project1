@@ -48,7 +48,7 @@
 # 로그인 처리
 
 사용자 인증처리
-------
+
 ![image](https://user-images.githubusercontent.com/117800561/202647423-7c8e1130-d56e-4170-bf4a-4e14a4b33d6e.png)
 
 로그인 정보 
