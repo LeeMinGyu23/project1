@@ -19,7 +19,7 @@
 
 # 내용
 
-**구현 기능**
+# 구현 기능
 
 * 메인페이지
     - 로그인 페이지로 이동 확인
@@ -32,12 +32,12 @@
         + 아아디, 비밀번호 입력시 로그인 구동 확인 -> 로그인 성공 메인페이지로 이동
         
         
-**엔티티 그래프**
+# 엔티티 그래프
 
 
 ![캡처](https://user-images.githubusercontent.com/117800561/201298587-d2d369d1-2dae-41d5-90f9-19e8d81d4d1b.PNG)
 
-**용어 정의**
+# 용어 정의
 
 ![image](https://user-images.githubusercontent.com/117800561/201299399-300b59c2-24fe-4a00-99fb-24acad1cfc00.png)
 
